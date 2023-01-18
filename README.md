@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nikaloamashvili Recent Computer Science graduate at HIT with over a year of hands-on experience building and testing
-      applications for Android and Windows that included BackEnd and FrontEnd development.
+      applications for Android and Web that included BackEnd and FrontEnd development.
 - 👀 I’m interested in new job as a Software developer.
 - 🌱 I’m currently learning kotlin language, data science course and Reverse engineering course.
 - 📫 How to reach me nikalomashvili@gmail.com
