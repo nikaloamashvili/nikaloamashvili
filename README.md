@@ -3,6 +3,8 @@
 - 👀 I’m interested in new job as a Software developer.
 - 🌱 I’m currently learning kotlin language, data science course and Reverse engineering course.
 - 📫 How to reach me nikalomashvili@gmail.com
+- 👀 look at [My Portfolio Site](https://nikalomashvili.netlify.app/).
+
 
 <!---
 nikaloamashvili/nikaloamashvili is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
