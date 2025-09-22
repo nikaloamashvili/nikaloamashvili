@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @nikaloamashvili Recent Computer Science graduate at HIT with over a year of hands-on experience building and testing
-      applications for Android and Web that included BackEnd and FrontEnd development.
-- 👀 I’m interested in new job as a Software developer.
-- 🌱 I’m currently learning kotlin language, data science course and Reverse engineering course.
-- 📫 How to reach me nikalomashvili@gmail.com
-- 👀 look at [My Portfolio Site](https://nikalomashvili.netlify.app/).
+👋 Hi, I’m @nikaloamashvili  
 
+I’m a passionate **Android Developer** with **2+ years of professional experience** building, testing, and maintaining Android applications. I have a strong background in both **frontend and backend development**, and I enjoy creating seamless and efficient mobile experiences.  
 
-<!---
-nikaloamashvili/nikaloamashvili is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 💼 Skills & Technologies
+- **Android:** Kotlin, Java, Jetpack Compose, RecyclerView, Room, Retrofit, Hilt  
+- **Backend & Database:** SQL, Firebase, REST APIs  
+- **Other Platforms:** Tizen development for smart TVs  
+- **Tools & Practices:** MVVM architecture, dependency injection, clean code, offline-first apps  
+
+### 📫 Contact Me
+- Email: **[nikalomashvili@gmail.com](mailto:nikalomashvili@gmail.com)**  
+- Portfolio: **[nikalomashvili.netlify.app](https://nikalomashvili.netlify.app/)**  
+
+### ⚡ Fun Fact
+I love solving challenging problems and building apps that users genuinely enjoy. When I’m not coding, I’m exploring new technologies, improving my skills, and sometimes just geeking out over smart TVs and mobile apps!  
